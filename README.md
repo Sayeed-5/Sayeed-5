@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayeed-5&show_icons=true&locale=en" alt="sayeed-5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayeed-5&" alt="sayeed-5" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/683d3f1ed3156c8eaf74b58a?variant=dark)](https://roadmap.sh)
