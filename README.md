@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayed Ahemmad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from Odisha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeed-5&label=Profile%20views&color=0e75b6&style=flat" alt="sayeed-5" /> </p>
 
-- 🔭 I’m currently working on [Online Voting System](https://github.com/Sayeed-5/Online-Voting-System)
+- 🔭 I’m currently working on [Zomato + Reel](https://github.com/Sayeed-5/Zomato)
 
 - 🌱 I’m currently learning **React JS**
 
